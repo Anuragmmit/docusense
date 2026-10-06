@@ -1,0 +1,15 @@
+opencv-python
+pytesseract
+pandas
+numpy
+scikit-learn
+torch
+torchvision
+fastapi
+uvicorn
+pyspark
+delta-spark
+mlflow
+faker
+reportlab
+pytest
