@@ -14,3 +14,4 @@ faker
 reportlab
 pytest
 pillow
+spacy
