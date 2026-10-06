@@ -13,3 +13,4 @@ mlflow
 faker
 reportlab
 pytest
+pillow
